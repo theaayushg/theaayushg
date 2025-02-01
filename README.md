@@ -1,5 +1,4 @@
 ## Hi there, I'm Aayush Gupta 👋
-
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-gupta-2a4a69213/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AayushGuptap15@gmail.com)  
 <br>
@@ -9,7 +8,7 @@
 - 🚀 Passionate about **Software Engineering, Quantitative Finance, and AI**  
 - 🤝 Open to collaborations & networking—let’s connect!  
 ---
-#### 📱 Technologies  
+### 📱 Technologies  
 <div style="display:flex; flex-wrap:wrap">
   
 #### **🖥️ Programming Languages**
@@ -55,5 +54,5 @@
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
 </div>
----
