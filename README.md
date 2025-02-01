@@ -1,6 +1,34 @@
 ## Hi there, I'm Aayush Gupta 👋
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-gupta-2a4a69213/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AayushGuptap15@gmail.com)  
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AayushGuptap15@gmail.com)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theaayushg)
+[![](https://img.shields.io/badge/Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white)](https://lichess.org/@/aaaaaaaaayush)  
+
+<!-- Professional & Contact Links -->
+<!-- 
+[![](https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com/)  
+[![](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+[![](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourhandle)  
+[![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername/)  
+[![](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yourusername)  
+[![](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourusername)  
+[![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourusername)  
+-->
+
+<!-- Finance & Quant -->
+<!--
+[![](https://img.shields.io/badge/QuantConnect-0078D7?style=for-the-badge&logo=quantconnect&logoColor=white)](https://www.quantconnect.com/u/yourusername)  
+[![](https://img.shields.io/badge/Quantopian-FF5733?style=for-the-badge&logo=python&logoColor=white)](https://www.quantopian.com/u/yourusername)  
+[![](https://img.shields.io/badge/TradingView-2962FF?style=for-the-badge&logo=tradingview&logoColor=white)](https://www.tradingview.com/u/yourusername)  
+[![](https://img.shields.io/badge/Yahoo%20Finance-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](https://finance.yahoo.com/yourportfolio)  
+-->
+
+<!-- Gaming & Fun -->
+<!--
+[![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yourusername)  
+[![](https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/yourusername)  
+[![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/yourusername)  
+-->
 
 - 💻 **Software Engineer @ Optum**  
 - 🎓 **UConn CS '24**  
