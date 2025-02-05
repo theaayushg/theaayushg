@@ -23,12 +23,6 @@
 [![](https://img.shields.io/badge/Yahoo%20Finance-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](https://finance.yahoo.com/yourportfolio)  
 -->
 
-<!-- Gaming & Fun -->
-<!--
-[![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yourusername)  
-[![](https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/yourusername)   
--->
-
 - 💻 **Software Engineer @ Optum**  
 - 🎓 **UConn CS '24**  
 - 📊 **Tech & Quant Enthusiast | Exploring SWE, ML, and Trading Strategies**  
