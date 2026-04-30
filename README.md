@@ -23,8 +23,9 @@
 [![](https://img.shields.io/badge/Yahoo%20Finance-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](https://finance.yahoo.com/yourportfolio)  
 -->
 
-- 💻 **Software Engineer @ Optum**  
-- 🎓 **UConn CS '24**  
+- 💻 **AI Software Engineer @ Optum**  
+- 🎓 **UConn BSCS '24**
+- 🎓 **GaTech MSCS '28**    
 - 📊 **Tech & Quant Enthusiast | Exploring SWE, ML, and Trading Strategies**  
 - 🚀 Passionate about **Software Engineering, Quantitative Finance, and AI**  
 - 🤝 Open to collaborations & networking—let’s connect!  
